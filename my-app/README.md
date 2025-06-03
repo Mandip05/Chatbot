@@ -1,5 +1,3 @@
-This is the made by using [assistant-ui](https://github.com/Yonom/assistant-ui)
-
 ## Getting Started
 
 First, add your Google API key to `.env.local` file:
