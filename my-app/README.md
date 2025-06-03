@@ -1,11 +1,11 @@
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+This is the made by using [assistant-ui](https://github.com/Yonom/assistant-ui)
 
 ## Getting Started
 
-First, add your OpenAI API key to `.env.local` file:
+First, add your Google API key to `.env.local` file:
 
 ```
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Google_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 Then, run the development server:
