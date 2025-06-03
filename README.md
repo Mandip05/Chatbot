@@ -45,3 +45,11 @@ GOOGLE_API_KEY=your_google_api_key
 
 # Run the development server
 npm run dev
+
+🙌 Connect With Me
+GitHub: https://github.com/Mandip05
+
+LinkedIn:https://www.linkedin.com/in/mandipchaudhary/
+
+Email: mandiptharuzz@gmail.com
+
